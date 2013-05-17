@@ -9,4 +9,4 @@
 
 # Make sure your secret_key_base is kept private
 # if you're sharing your code publicly.
-Rea::Application.config.secret_key_base = 'c4c0887f3d4d0a255b45f04d9123a87664e0b946392f3bfc0b0ba6e40cbfad8204eed769095214a216eb75b81748282d2228e8a3e9d63ef3b7ea8d06c6ed2701'
+Rea::Application.config.secret_key_base = '68b1afb72e0c81ddd6ce8a3bea426fa6ebc1cf9d38fd70fc5fd8c81b73780b9d1890a376cda8b6323a10614fc2063a38843b119c6ff75b980fdd65970f2c85af'
